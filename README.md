@@ -52,9 +52,16 @@ Data Format | CSV
 
 📁 Banking-Analytics-Dashboard
 
-├── data/Banking.csv
-├── dashboard/banking_dashboard.pbix
-├── notebook/BANKING_ANALYSIS.ipynb
+├── Banking.csv
+
+├── banking_dashboard.pbix
+
+├── BANKING_ANALYSIS.ipynb
+
+├── screenshot
+
+├── presentation
+
 └── README.md
 ---
 
